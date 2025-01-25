@@ -1,4 +1,4 @@
-This code represents a simple web-based calculator built using raw HTML and PHP, allowing users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Below is an overview of how the code functions:
+This code represents a simple web-based calculator built using PHP, allowing users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Below is an overview of how the code functions:
 
 Key Features:
 User Input:
